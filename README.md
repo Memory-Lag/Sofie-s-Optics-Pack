@@ -36,6 +36,10 @@ This is a Modpack my friend Sofie made to play on her server. All these mods are
 
 All Credits goes out to the original mod creators. ( I do not claim ownership of any mods included in this modpack.)
 
+## Downloads:
+
+- [Releases](https://github.com/Memory-Lag/Sofie-s-Optics-Pack/releases/tag/ModPack)
+
 <details>
 <summary>Setup</summary>
 
