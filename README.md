@@ -16,8 +16,6 @@ This is a Modpack my friend Sofie made to play on her server. All these mods are
 
 - Please use [Fabric Loader](https://fabricmc.net/) 0.14.24 or higher. (When using Fabric)
 
-- Requires the [Modrinth App](https://modrinth.com/app) to unpack the mod.
-
 - Forge Version coming in the near future.
 
 **Resourcepacks:**
